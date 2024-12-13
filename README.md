@@ -11,6 +11,8 @@
 ## 🏃 Baekjoon
 <div>
 	<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=gytjs2998"/>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nano2998&langs_count=5&layout=compact&theme=dark)
 </div>
 
 ## GitAnimals
@@ -23,7 +25,7 @@
 />
 </a>
 
-## 🔧 Leaning Stack
+## 🔧 Leaning Stacks
 
 ### Language
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -43,3 +45,9 @@
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white)
+
+
+### CI/CD
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-222222?style=for-the-badge&logo=githubactions&logoColor=white)
+</div>
