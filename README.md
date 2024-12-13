@@ -3,9 +3,10 @@
 <!--
 **Nano2998/Nano2998** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-<a href="https://github.com/imysh578"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api?username=imysh578&show_icons=true&include_all_commits=true&theme=nord&hide_border=true" alt="SOKURI's github stats" /></a>
+## 🏃 Baekjoon
+<div>
+	<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=gytjs2998"/>
+</div>
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
