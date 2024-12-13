@@ -5,14 +5,7 @@
 </div>
 
 <div>
-	<!-- Nano2998의 GitHub Stats 가져오기 -->
-	<a href="https://github.com/Nano2998">
-		<img src="https://github-readme-stats.vercel.app/api?username=Nano2998&show_icons=true&theme=radical" alt="Nano2998's GitHub Stats" />
-	</a>
-</div>
-
-<div>
-	<img src="https://github-readme-stats.vercel.app/api?username=alswp006&count_private=true"/>
+	<img src="https://github-readme-stats.vercel.app/api?username=Nano2998&count_private=true"/>
 </div>
 
 ## 🏃 Baekjoon
@@ -20,12 +13,33 @@
 	<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=gytjs2998"/>
 </div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## GitAnimals
+
+<a href="https://github.com/devxb/gitanimals">
+<img
+  src="https://render.gitanimals.org/farms/Nano2998"
+  width="600"
+  height="300"
+/>
+</a>
+
+## 🔧 Leaning Stack
+
+### Language
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
+
+### Database
+![MySql](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white)
+
+### Framework & Library
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white)
+
+
+### Tool & Platform
+![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white)
