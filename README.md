@@ -61,8 +61,8 @@
 
 <div align="left">
 	<h2>🏃 Baekjoon</h2>
-	<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=gytjs2998" style="display: inline-block;" width="300" height="150"/>
-	<img src="https://github-readme-stats.vercel.app/api?username=Nano2998&count_private=true" width="350"/>
-	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nano2998&langs_count=5&layout=compact&theme=dark" style="display: inline-block; width="150" height="150"/>
+	<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=gytjs2998" style="display: inline-block;" width="200" height="150"/>
+	<img src="https://github-readme-stats.vercel.app/api?username=Nano2998&count_private=true" width="250"/>
+	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nano2998&langs_count=5&layout=compact&theme=dark" style="display: inline-block; width="250" height="150"/>
 
 </div>
