@@ -1,7 +1,7 @@
 <div align="left">
   <h2>✨ About Me</h2>
   <ul style="list-style: none; padding: 0;">
-    <li>👨‍💻 <strong>Backend Developer</strong> who loves <strong>Spring & Java</strong></li>
+    <li>👨‍💻 <strong>Spring & Java</strong> Backend Developer </li>
     <li>🌱 Currently learning various <strong>Spring technologies</strong></li>
     <li>💡 Interested in <strong>Infra</strong> and <strong>Software Architecture</strong></li>
   </ul>
