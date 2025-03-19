@@ -14,7 +14,7 @@
 | Project Name | Description | Period |
 |-------------|-------------|---------|
 | Plain | AI With Smart Class Room | 2025.02 ~ Present |
-| Master-plan-b |  Certification info platform for exams, schedules, and reviews | 2025.01 ~ Present |
+| Master-plan-b |  Certification info platform for exams, schedules, and reviews | 2025.02 ~ Present |
 | 추천중독 | Personalized gift recommendation service | 2024.11 ~ 2024.12 |
 | Matdonsan | AI-generated personalized fairy tale service for children | 2024.09 ~ 2024.12 |
 | 충저니 | AI Travel Recommendation Service for Chungcheong-do (KakaoTech Bootcamp Hackathon) | 2024.09 |
