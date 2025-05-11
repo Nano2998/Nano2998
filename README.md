@@ -24,7 +24,7 @@
 </div>
 
 <div align="left">
-	<h2>🔧 Leaning Stacks</h2>
+	<h2>🔧 Tech Stacks</h2>
 	<div align="left">
 	<h3>Language</h3>
 	<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
